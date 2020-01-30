@@ -12,6 +12,5 @@ func main() {
 	syarif.Main()
 	sidik.Main()
 	fmt.Println("End golang-learn")
-
-	fmt.Println("Finished")
+	fmt.Println("Finished2")
 }
