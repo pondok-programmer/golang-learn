@@ -1,8 +1,7 @@
 package sidik
 
 import "fmt"
-
-func Main()  {
-	fmt.Println("Hello World from Sidik")
+import "math"
+func Main() {
+	fmt.Printf("Now you have %g problems.\n", math.Sqrt(7))
 }
-
