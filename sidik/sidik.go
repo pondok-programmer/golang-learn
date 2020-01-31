@@ -3,9 +3,13 @@ package sidik
 import "fmt"
 import "math"
 
+
 func Main() {
 	fmt.Println("Hello World from Sidik")
 	basic1()
+	basic3()
+	number()
+	state()
 }
 
 func basic1() {
