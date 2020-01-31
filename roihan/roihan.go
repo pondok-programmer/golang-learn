@@ -8,6 +8,7 @@ func Main()  {
 	basics1()
 	basics2()
 	basics3()
+	basics4()
 }
 
 
