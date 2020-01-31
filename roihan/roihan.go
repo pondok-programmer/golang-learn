@@ -5,8 +5,9 @@ import "math/rand"
 
 func Main()  {
 	fmt.Println("Hello World from Roihan")
-
 	basics1()
+	basics2()
+	basics3()
 }
 
 
