@@ -8,6 +8,7 @@ func Main() {
 	fmt.Println("Hello World from Sidik")
 	basic1()
 	basic3()
+	number()
 }
 
 func basic1() {
