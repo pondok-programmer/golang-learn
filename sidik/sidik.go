@@ -9,6 +9,7 @@ func Main() {
 	basic1()
 	basic3()
 	number()
+	state()
 }
 
 func basic1() {
