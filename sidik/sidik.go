@@ -11,6 +11,7 @@ func Main() {
 	number()
 	state()
 	basic6()
+	basic7()
 }
 
 func basic1() {
