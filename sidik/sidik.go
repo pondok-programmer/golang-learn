@@ -14,6 +14,7 @@ func Main() {
 	basic7()
 	basic8()
 	basic9()
+	basic10()
 }
 
 func basic1() {
