@@ -7,8 +7,8 @@ import (
 
 func Main() {
 	fmt.Println("Hello World from syarif")
-	basics1()
+	basics2()
 }
-func basics1() {
-	fmt.Println("Now you have %g problems.\n", math.Sqrt(7))
+func basics2() {
+	fmt.Printf("Now you have %g problems.\n", math.Sqrt(7))
 }
