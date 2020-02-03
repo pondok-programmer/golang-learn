@@ -10,6 +10,18 @@ func Main() {
 	basic3()
 	number()
 	state()
+	basic6()
+	basic7()
+	basic8()
+	basic9()
+	basic10()
+	basic11()
+	basic12()
+	basic13()
+	basic14()
+	basic15()
+	basic16()
+	basic17()
 }
 
 func basic1() {
