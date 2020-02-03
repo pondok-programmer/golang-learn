@@ -8,7 +8,7 @@ import (
 var ( //membuat variabel bisa sekaligus dengan pembungkus
 	Tobe bool	= false
 	Maxint uint64 = 1<<64 - 1
-	zo	complex128 = cmplx.Sqrt(-5 + 12i)
+	zo	complex128 = cmplx.Sqrt(-5 + 12i) //type data complex128
 )
 
 func basic11()  {
