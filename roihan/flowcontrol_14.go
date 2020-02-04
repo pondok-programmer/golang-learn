@@ -2,7 +2,6 @@ package roihan
 
 import "fmt"
 
-func basics17() {
+func flowcontrol14() {
 	fmt.Println("You finished this lesson!")
-	fmt.Println()
 }

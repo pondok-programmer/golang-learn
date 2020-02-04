@@ -24,6 +24,22 @@ func Main() {
 	basics15()
 	basics16()
 	basics17()
+
+	//Flowcontrol
+	fmt.Println("//Flowcontrol//")
+	flowcontrol1()
+	flowcontrol2()
+	flowcontrol3()
+	flowcontrol5()
+	flowcontrol6()
+	flowcontrol7()
+	flowcontrol8()
+	flowcontrol9()
+	flowcontrol10()
+	flowcontrol11()
+	flowcontrol12()
+	flowcontrol13()
+	flowcontrol14()
 }
 
 func basics1() {
