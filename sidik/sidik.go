@@ -22,6 +22,21 @@ func Main() {
 	basic15()
 	basic16()
 	basic17()
+	fmt.Printf("\n")
+	flow1()
+	flow2()
+	flow3()
+	// flow4()
+	flow5()
+	flow6()
+	flow7()
+	flow8()
+	flow9()
+	flow10()
+	flow11()
+	flow12()
+	flow13()
+	flow14()
 }
 
 func basic1() {
