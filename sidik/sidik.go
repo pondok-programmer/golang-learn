@@ -37,6 +37,8 @@ func Main() {
 	flow12()
 	flow13()
 	flow14()
+	fmt.Printf("\n")
+	type1()
 }
 
 func basic1() {
