@@ -39,6 +39,7 @@ func Main() {
 	flow14()
 	fmt.Printf("\n")
 	type1()
+	type2()
 }
 
 func basic1() {
