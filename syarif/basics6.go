@@ -3,7 +3,7 @@ package syarif
 import "fmt"
 
 func swap(a, b string) (string, string) {
-	return a, b
+	return b, a
 }
 
 func basics6() {

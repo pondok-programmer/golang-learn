@@ -7,5 +7,5 @@ func basics12() {
 	var f float64
 	var b bool
 	var s string
-	fmt.Println("%v %v %v %q\n", i, f, b, s)
+	fmt.Printf("%v %v %v %q\n", i, f, b, s)
 }
