@@ -40,6 +40,7 @@ func Main() {
 	fmt.Printf("\n")
 	type1()
 	type2()
+	type3()
 }
 
 func basic1() {

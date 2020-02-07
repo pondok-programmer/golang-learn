@@ -9,5 +9,5 @@ type Vertex struct {
 }
 
 func type2() {
-	fmt.Println(7, 5, 8)
+	fmt.Println(Vertex{7, 5, 8})
 }
