@@ -48,6 +48,7 @@ func Main() {
 	type8()
 	type9()
 	type10()
+	type11()
 }
 
 func basic1() {
