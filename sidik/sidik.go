@@ -52,6 +52,7 @@ func Main() {
 	type12()
 	type13()
 	type14()
+	type15()
 }
 
 func basic1() {
