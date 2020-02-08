@@ -40,6 +40,18 @@ func Main() {
 	flowcontrol12()
 	flowcontrol13()
 	flowcontrol14()
+
+	//Moretypes
+	fmt.Println("//Moretypes//")
+	moretype1()
+	moretype2()
+	moretype3()
+	moretype4()
+	moretype5()
+	moretype6()
+	moretype7()
+	moretype8()
+	moretype9()
 }
 
 func basics1() {
