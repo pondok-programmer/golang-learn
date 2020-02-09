@@ -60,6 +60,8 @@ func Main() {
 	type20()
 	type21()
 	type22()
+	// type23()
+	type24()
 }
 
 func basic1() {
