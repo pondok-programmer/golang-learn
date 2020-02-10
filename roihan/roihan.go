@@ -55,6 +55,7 @@ func Main() {
 	moretype10()
 	moretype11()
 	moretype12()
+	moretype13()
 }
 
 func basics1() {
