@@ -1,5 +1,7 @@
 package sidik
 
+/* بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم */
+
 import "fmt"
 import "math"
 
@@ -55,7 +57,7 @@ func Main() {
 	type15()
 	type16()
 	type17()
-	// type18()
+	type18()
 	type19()
 	type20()
 	type21()
