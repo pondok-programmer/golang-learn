@@ -1,11 +1,20 @@
 package sidik
 
-import (	
+import (
+	"strings"
+
 	"golang.org/x/tour/wc"
 )
 
 func WordCount(s string) map[string]int {
-	return map[string]int{"learning": 1}
+	words := strings.Fields(s)
+		result := make(map[string]int)
+
+		for _, word := range words{
+			result[word] += 1
+		}
+
+		return result
 }
 
 func type23() {
